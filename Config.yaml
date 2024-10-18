@@ -1,0 +1,10 @@
+path: C:\Users\hayim\Documents\Babypal # directory containing images and labels folders
+
+train: images\train # train images path from poolpal directory
+
+val: images\train # val images path from poolpal directory
+
+names:
+  - Baby
+class_indices:
+  - 0
